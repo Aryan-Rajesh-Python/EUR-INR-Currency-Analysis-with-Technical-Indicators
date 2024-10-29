@@ -19,6 +19,6 @@ This project implements a comprehensive analysis of the EUR/INR currency pair us
 ## Usage
 
    ```bash
-   git clone https://github.com/yourusername/EUR_INR_Currency_Analysis.git
+   git clone https://github.com/Aryan-Rajesh-Python/EUR-INR-Currency-Analysis-with-Technical-Indicators.git
    pip install -r requirements.txt
    streamlit run alphashots.py
